@@ -24,11 +24,13 @@ Overall these figures help quantify the magnitude difference between high-ranked
 
 The difference between a recruits *Actual Draft Value* (DV) and *Expected Draft Value* (EDV), can be expressed as *Draft Value Over Expected* (DVOE). Where low-ranked recruits that were drafted early have high DVOE. Conversely, high-ranked recruits that went undrafted have low DVOE. 
 
+It's  important to keep in mind that both Draft Value and Draft Monetary Value follow steeply dipping exponential relationships. Most of the value is concentrated in the earliest picks. As such, there will be strong biases towards certain positions, like QB, which are prioritized in the early rounds of the draft. DVOE does not correct for these effects whatsoever.
+
+# Shortcomings
+
 In general, the "Expected" values are conservative estimates. In a given actual draft there is $1.6B in monetary contracts and ~10,000 in Draft Value to disperse among the  selected players. Integrating our "Expected" value for each recruiting class yields only $1.2B in monetary value, and ~8,500 in Draft Value. This would tend to create a bias towards positive DVOE. 
 
-However, this bias is overcome by incomplete merging of the drafted dataset and the recruit dataset. To put it simply, not every recruit that was drafted, is appropriately credited with Draft Value. Cumulatively, only ~63,200 in Draft Value is assigned out of an actual ~80,000. Our cumulative Expected Draft Value is ~67,500. **Due to not properly assigning draft credit to recruits, we have a bias towards negative DVOE throughout the dataset.** This bias is about 650 DVOE per year. 
-
-It's also important to keep in mind that both Draft Value and Draft Monetary Value follow steeply dipping exponential relationships. Most of the value is concentrated in the earliest picks. As such, there will be strong biases towards certain positions, like QB, which are prioritized in the early rounds of the draft. DVOE does not correct for these effects whatsoever.
+However, this bias is overcome by incomplete merging of the drafted dataset and the recruit dataset. To put it simply, not every recruit that was drafted, is appropriately credited with Draft Value. Over 576 draft picks were not correctly merged. As such, only ~63,200 in Draft Value is assigned out of an actual ~80,000. Our cumulative Expected Draft Value is ~67,500. **Due to not properly assigning draft credit to every player who was drafted, we have a bias towards negative DVOE throughout the dataset.** This bias is about -650 DVOE per year. As the draft and recruit datasets are improved, we will continue to update these efforts. As of this time we are limited to the data and time available. 
 
 # Observations
 
@@ -63,4 +65,17 @@ The bottom recruits in DVOE are dominated by highly-ranked linemen who either we
 | 6 | D.J. Humphries     | OT  |         5 |            3 | Florida      |             |            |            | -68.5 |
 | 7 | Greg Little        | OT  |         5 |            3 | Ole Miss     |             |            |            | -68.5 |
 | 8 | Shea Patterson     | PRO |         5 |            4 | Ole Miss     |             |            |            | -64.9 |
+
+## Year to Year Accuracy of Recruit Ratings
+
+One thing DVOE can help inform us about is the temporal improvement in ranking players. Since 2010, there has been a gradual improvement in the DVOE of playeres ranked either as 4 or 5 Stars. We can see that a Blue Chip in the 2017 recruiting class was more often drafted higher than expected. While a Blue Chip in 2010 was drafted lower than expected. This does not to seem to be an effect of merge quality between the draft and recruit datasets, for most years we are missing approximately the same number of drafted recruits. 
+
+![BCs](https://user-images.githubusercontent.com/75027599/117348899-ca672d00-ae78-11eb-9991-309ab1775efb.png)
+
+
+## Spatial Trends
+
+We can also look at the hometowns of Blue Chips to see if recruits from some states return higher expected Draft Value compared to those from other states. To avoid small sample size issues with some states (namely Taven Bryan and Wyoming), we'll look at the cumulative DVOE produced by Blue Chips from each state from recruiting classes 2010-2017. We can see that in aggregate, Blue Chips from Alabama, Louisiana, Ohio, and South Carolina tend to get drafted higher than expected based on their high school ranking. While Blue Chips from California, Texas, and Georgia have not produced their expected Draft Value. Florida, where an immense amount of Blue Chip talent comes from, generally produces Draft Value comparable to that which we expect from High School rankings.
+
+![states](https://user-images.githubusercontent.com/75027599/117351789-1f587280-ae7c-11eb-914b-dd9f08403261.png)
 
