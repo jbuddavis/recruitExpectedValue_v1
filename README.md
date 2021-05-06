@@ -53,7 +53,7 @@ It's not surprising that the top recruits in DVOE are predominately QBs who were
 
 ### Bottom Recruits in DVOE
 
-The bottom recruits in DVOE are dominated by highly-ranked linemen who either went undrafted (Trenton Thompson), or went late in the draft where actual Draft Value is low (Ronald Powerll). These lowest DVOE players highlight the high Expected Draft Value of highly-ranked recruits. The fact that they received litte to no actual draft value is the exception and not the norm
+The bottom recruits in DVOE are dominated by highly-ranked linemen who either went undrafted (Trenton Thompson), or went late in the draft where actual Draft Value is low (Ronald Powell). These lowest DVOE players highlight the high Expected Draft Value of highly-ranked recruits. The fact that they received litte to no actual draft value is the exception and not the norm
 
 |   | Name               | POS | Rec Stars | Recruit Rank | Draft School | NFL Team    | Draft Year | Draft Pick |  DVOE |
 |---|--------------------|-----|----------:|-------------:|--------------|-------------|-----------:|-----------:|------:|
