@@ -126,7 +126,86 @@ Perhaps not surprisingly we see the Big Three at the top. OSU, Alabama, and Clem
 
 On the other side of this table, we see a lot of old-guard Blue Bloods. While these programs might have recruited well relative to most P5 schools, they've certainly struggled to get guys into the league at the level expected by their recruiting. And generally these are schools which have underperformed in terms of onfield success. Also, Rutgers.
 
-# Which Coachese Have an eye for NFL Talent?
+## Conferences
+
+At the Conference Level, we see that recruits in the Big Ten and ACC are getting drafted at a higher than expected value. The SEC is slightly above predicted. While the Pac-12 and Big 12 recruits struggle to get drafted at the value suggested by their high school ranking.
+
+| Conference        | Draft Value | Exp. Draft Value |    DVOE |
+|-------------------|------------:|-----------------:|--------:|
+| Big Ten           |     10720.2 |           9584.4 |  1135.8 |
+| ACC               |     10935.4 |           9984.8 |   950.6 |
+| American Athletic |      2727.4 |           2454.2 |   273.2 |
+| SEC               |     18560.3 |          18406.2 |   154.1 |
+| Big East          |         7.9 |              2.7 |     5.2 |
+| FBS Independents  |      2012.0 |           2028.3 |   -16.3 |
+| Mountain West     |      1247.5 |           1505.7 |  -258.2 |
+| Sun Belt          |       285.8 |            695.0 |  -409.2 |
+| Pac-12            |      9159.1 |           9581.7 |  -422.6 |
+| Mid-American      |       808.1 |           1265.9 |  -457.8 |
+| Conference USA    |       992.9 |           1469.7 |  -476.8 |
+| Big 12            |      4665.3 |           6436.9 | -1771.6 |
+
+## Coaches
+### Which Coaches Have an eye for NFL Talent? 
+We can look at coaches in a number of ways with DVOE. First, let's start at the beginning: *which coaches are the best at finding diamonds in the rough?* For this we'll look at the DVOE of the recruits landed by each coach (Example: Joe Burrow's DVOE would be credited to Urban Meyer). 
+
+At the top we see our usual suspects. There are some really interesting surprises in here though: Sherman and Addazio especially.
+
+|     | Coach           | Draft Valu | Exp. Draft Value |   DVOE |
+|-----|-----------------|-----------:|-----------------:|-------:|
+| 1   | Urban Meyer     |     3978.1 |           2392.8 | 1585.3 |
+| 2   | Nick Saban      |     4733.2 |           3206.2 | 1527.0 |
+| 3   | Dabo Swinney    |     2747.6 |           1368.6 | 1379.0 |
+| 4   | Kirk Ferentz    |     1215.6 |            473.5 |  742.1 |
+| 5   | Mike Sherman    |      891.9 |            197.3 |  694.6 |
+| 6   | Chris Petersen  |      981.9 |            464.6 |  517.3 |
+| 7   | Steve Sarkisian |     1070.4 |            703.7 |  366.7 |
+| 8   | Kliff Kingsbury |      573.5 |            251.5 |  322.0 |
+| 9   | Steve Addazio   |      512.2 |            193.4 |  318.8 |
+| 10  | Dave Doeren     |      640.1 |            321.9 |  318.2 |
+| ... | ...             |        ... |              ... |    ... |
+| 231 | Jeff Tedford    |       77.8 |            384.7 | -306.9 |
+| 232 | Todd Graham     |      164.1 |            489.3 | -325.2 |
+| 233 | Mike London     |      132.6 |            491.5 | -358.9 |
+| 234 | Gus Malzahn     |      616.3 |           1006.2 | -389.9 |
+| 235 | Rich Rodriguez  |       65.0 |            462.3 | -397.3 |
+| 236 | Jimbo Fisher    |     1984.1 |           2381.8 | -397.7 |
+| 237 | Mark Richt      |     1172.4 |           1649.5 | -477.1 |
+| 238 | Butch Jones     |      461.9 |            993.4 | -531.5 |
+| 239 | Bob Stoops      |      515.8 |           1134.7 | -618.9 |
+| 240 | Mack Brown      |      181.5 |           1160.5 | -979.0 | 
+
+At the bottom we see some really big names. While Jimbo's recruits have generated a tremendous amount of NFL Draft Value, they haven't lived up to the lofty expectations imposed by his highly ranked classes. One thing to note here, is that a lot of the classes from Jimbo and Mack Brown ended up being coaches/developed by their replacements (Taggart/Strong). So let's look at DVOE another way...
+
+### Which Coaches Get Upperclassmen Drafted? 
+
+Now DVOE is assigned to coaches based on who was the head coach at the time of their draft (Example: Joe Burrow's DVOE would be credited to Ed Orgeron). This can help us infer which coachs get their players dveloped. There is some slight shuffling at the top, as some of Urban's recruiting success is now credited to Day. In general, most of the names at the top are fairly intuitive. 
+
+|     | Coach             | Draft Valu | Exp. Draft Value |   DVOE |
+|-----|-------------------|-----------:|-----------------:|-------:|
+| 1   | Nick Saban        |     4635.7 |           3161.5 | 1474.2 |
+| 2   | Dabo Swinney      |     2739.7 |           1361.3 | 1378.4 |
+| 3   | Urban Meyer       |     2585.7 |           1263.6 | 1322.1 |
+| 4   | Chris Petersen    |     1569.9 |            675.2 |  894.7 |
+| 5   | Kirk Ferentz      |     1205.7 |            470.1 |  735.6 |
+| 6   | Ed Orgeron        |     2233.1 |           1596.5 |  636.6 |
+| 7   | Ryan Day          |     1429.7 |            941.5 |  488.2 |
+| 8   | Kevin Sumlin      |     1309.0 |            852.0 |  457.0 |
+| 9   | Bobby Petrino     |      727.8 |            315.7 |  412.1 |
+| 10  | Dave Doeren       |      756.3 |            451.1 |  305.2 |
+| ... | ...               |        ... |              ... |    ... |
+| 231 | Mike Norvell      |      364.6 |            686.9 | -322.3 |
+| 232 | Mark Richt        |      584.2 |            921.3 | -337.1 |
+| 233 | Bronco Mendenhall |      122.0 |            508.9 | -386.9 |
+| 234 | Willie Taggart    |      415.9 |            828.0 | -412.1 |
+| 235 | Clay Helton       |     1510.6 |           1943.2 | -432.6 |
+| 236 | Will Muschamp     |      705.9 |           1158.2 | -452.3 |
+| 237 | Gus Malzahn       |     1087.9 |           1602.6 | -514.7 |
+| 238 | Tom Herman        |      318.9 |            877.0 | -558.1 |
+| 239 | Jeremy Pruitt     |      153.4 |            712.9 | -559.5 |
+| 240 | Charlie Strong    |      280.2 |           1147.2 | -867.0 |
+
+At the bottom, we've replaced many of the names (ex. Mack Brown with Charlie Strong). Perhaps the most surprising are the guys that are the same: Mark Richt & Gus Malzahn. Both guys who had to play little brother to Urban/Saban in recruiting and on-field success. 
 
 ## Year to Year Accuracy of Recruit Ratings
 
