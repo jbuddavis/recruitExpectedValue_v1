@@ -6,7 +6,7 @@ Here I assign Draft Value & Draft Monetary Value to high-school football recruit
 
 The recruit dataset comprises the classes from 2010-2017 and was derived from the https://collegefootballdata.com/ API. The Draft dataset comprises years 2010-2021 and was also downloaded through the https://collegefootballdata.com/ API. Recruiting and Draft datasets were merged using the "athleteId" and "collegeAthleteId" fields and cleaned manually as best as possible.
 
-The Draft Value data is from work by @statsbylopex https://statsbylopez.netlify.app/post/rethinking-draft-curve/. The  Draft Monetary Values are from https://www.spotrac.com/nfl/draft/. Draft Monetary Value uses the total rookie contract value as if the player were drafted in 2021. Draft Value and Draft Monetary Value are utilized for this analysis because it allows us quantify the value of undrafted players (i.e., 0). Whereas if the draft pick were used, the value to assign to undrafted players would be ambiguous. 
+The Draft Value data is from work by @statsbylopez https://statsbylopez.netlify.app/post/rethinking-draft-curve/. The  Draft Monetary Values are from https://www.spotrac.com/nfl/draft/. Draft Monetary Value uses the total rookie contract value as if the player were drafted in 2021. Draft Value and Draft Monetary Value are utilized for this analysis because it allows us quantify the value of undrafted players (i.e., 0). Whereas if the draft pick were used, the value to assign to undrafted players would be ambiguous. 
 
 ## Expected Draft Value
 
