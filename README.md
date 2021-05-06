@@ -20,15 +20,15 @@ The rolling average dataset yieled a clear relationship between recruit rank and
 
 Overall these figures help quantify the magnitude difference between high-ranked and low-ranked HS recruits in terms of likely Draft Value and Draft Contracts. **The #1 ranked High School recruit is expected to have a Draft Value of around 94.3 (~pick #31) and land a 4-Year Draft Contract of $13,000,000.** Comparatively the #300 recruit is expected to have a Draft Value of 5.7 (UNDRAFTED) and a contract of just $740,000, two-orders of magnitude lower than the #1 recruit.
 
-## Thoughts on Draft Value Over Expected
+## Draft Value Over Expected
 
 The difference between a recruits *Actual Draft Value* (DV) and *Expected Draft Value* (EDV), can be expressed as *Draft Value Over Expected* (DVOE). Where low-ranked recruits that were drafted early have high DVOE. Conversely, high-ranked recruits that went undrafted have low DVOE. 
 
 In general, the "Expected" values are conservative estimates. In a given actual draft there is $1.6B in monetary contracts and ~10,000 in Draft Value to disperse among the  selected players. Integrating our "Expected" value for each recruiting class yields only $1.2B in monetary value, and ~8,500 in Draft Value. This would tend to create a bias towards positive DVOE. 
 
-However, this bias is overcome by incomplete merging of the drafted dataset and the recruit dataset. To put it simply, not every recruit that was drafted, is appropriately credited with Draft Value. Cumulatively, only ~63,200 in Draft Value is assigned out of an actual ~80,000. Our Expected Draft Value is ~67,500. As such, we have a bias towards negative DVOE throughout the dataset.
+However, this bias is overcome by incomplete merging of the drafted dataset and the recruit dataset. To put it simply, not every recruit that was drafted, is appropriately credited with Draft Value. Cumulatively, only ~63,200 in Draft Value is assigned out of an actual ~80,000. Our cumulative Expected Draft Value is ~67,500. **Due to not properly assigning draft credit to recruits, we have a bias towards negative DVOE throughout the dataset.** This bias is about 650 DVOE per year. 
 
-It's important to keep in mind that both Draft Value and Draft Monetary Value follow steeply dipping exponential relationships. Most of the value is concentrated in the earliest picks. As such, there will be strong biases towards certain positions, like QB, which are prioritized in the early rounds of the draft. DVOE does not correct for these effects whatsoever.
+It's also important to keep in mind that both Draft Value and Draft Monetary Value follow steeply dipping exponential relationships. Most of the value is concentrated in the earliest picks. As such, there will be strong biases towards certain positions, like QB, which are prioritized in the early rounds of the draft. DVOE does not correct for these effects whatsoever.
 
 # Observations
 
