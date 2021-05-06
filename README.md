@@ -1,6 +1,6 @@
 # Estimating the Expected Draft Value of High School Recruits
 
-Here I assign Draft Value & Draft Monetary Value to high-school football recruits based on their composite 247 Ranking. Utilizing Draft Value allows for undrafted players to be quantified and an Expected Draft Value to be developed for each high-school recruit ranking. A Draft Value Over Expected value allows us to quantify the players, teams, conferences, states, and years where highly rated recruits either exceeded or fell short of their expected Draft Value.
+Here I assign Draft Value & Draft Monetary Value to high-school football recruits based on their composite 247 Ranking. Utilizing Draft Value allows for undrafted players to be quantified and an Expected Draft Value to be developed for each high-school recruit ranking. A Draft Value Over Expected value allows us to quantify the players, teams, conferences, states, and years where highly rated recruits either exceeded or fell short of the draft expectations set by their recruit ranking.
 
 # Data
 
