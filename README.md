@@ -10,7 +10,7 @@ The Draft Value data is from work by @statsbylopez https://statsbylopez.netlify.
 
 ## Expected Draft Value
 
-Given that only 8 drafts are included in the dataset, simply taking the average Draft Value of each pick yields too much high-frequency noise to define clear trends within the data. To help smooth these data, a rolling average was used with a binsize window +/- 5 ranks from each chosen rank. For example, for recruits ranked #15 in their class, a Draft Value was estimated by taking the average actual Draft Value of recruits ranked inclusively between #10-#20 (red line in Fig 1 & 2). 
+Given that only 8 drafts are included in the dataset, simply taking the average Draft Value of each recruit ranks yields too much high-frequency noise to define clear trends within the data. To help smooth these data, a rolling average was used with a binsize window +/- 5 ranks from each chosen rank. For example, for recruits ranked #15 in their class, a Draft Value was estimated by taking the average actual Draft Value of recruits ranked inclusively between #10-#20 (red line in Fig 1 & 2). 
 
 ![Figure_2](https://user-images.githubusercontent.com/75027599/117321947-8f0a3580-ae5b-11eb-9541-2eebed8cb5af.png)
 
