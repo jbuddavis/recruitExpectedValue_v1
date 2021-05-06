@@ -151,7 +151,7 @@ We can look at coaches in a number of ways with DVOE. First, let's start at the 
 
 At the top we see our usual suspects. There are some really interesting surprises in here though: Sherman and Addazio especially.
 
-|     | Coach           | Draft Valu | Exp. Draft Value |   DVOE |
+|     | Coach           | Draft Value | Exp. Draft Value |   DVOE |
 |-----|-----------------|-----------:|-----------------:|-------:|
 | 1   | Urban Meyer     |     3978.1 |           2392.8 | 1585.3 |
 | 2   | Nick Saban      |     4733.2 |           3206.2 | 1527.0 |
