@@ -250,3 +250,7 @@ DT surprises me though. Generally, DL are highly valued by the NFL Draft. Maybe 
 | ILB      | 1366        | 2652             | -1286 |
 | RB       | 3266        | 4630             | -1364 |
 | OG       | 1764        | 3306             | -1542 |
+
+# Conclusions
+
+DVOE seems to do well at quantifying how well or how poorly a football lived up to their recruit ranking when it came to the NFL draft. DVOE allows us to quantify which schools, conference, and coaches have an eye for talent and development. DVOE can be used to assess potential temporal and spatial changes in accuracy with regards to recruit rankings. Future works will leverage DVOE to focus on commonalities between recruits that are underrated or overrated coming out of high school and attempt to optimize recruit rankings for age, location, and position. 
