@@ -66,6 +66,68 @@ The bottom recruits in DVOE are dominated by highly-ranked linemen who either we
 | 7 | Greg Little        | OT  |         5 |            3 | Ole Miss     |             |            |            | -68.5 |
 | 8 | Shea Patterson     | PRO |         5 |            4 | Ole Miss     |             |            |            | -64.9 |
 
+## Which Recruiting Classes Lived Up to the Hype?
+Based on each recruit's DVOE, we can quantify which recruiting classes have lived up to their expectations. At the very top are elite classes from Alabama and Ohio State. But I'm really happy to see some lower ranked classes in here like 2010 TAMU (Matthews & Joeckel), 2014 NCSU (Samuels & Chubb), and 2016 Iowa (Hockerson & Fant) which produced highly rated draft picks from low ranked guys. 
+
+|      | School        | Class | Draft Value | Exp. Draft Value |   DVOE |
+|------|---------------|-------|------------:|-----------------:|-------:|
+| 1    | Alabama       | 2017  |      1325.1 |            530.3 |  794.8 |
+| 2    | Ohio State    | 2013  |      1027.1 |            322.4 |  704.7 |
+| 3    | Ohio State    | 2015  |       686.1 |              233 |  453.1 |
+| 4    | Texas A&M     | 2010  |       576.7 |            135.9 |  440.8 |
+| 5    | Louisville    | 2011  |       515.5 |             86.8 |  428.7 |
+| 6    | NC State      | 2014  |       496.7 |               84 |  412.7 |
+| 7    | Iowa          | 2016  |       387.7 |             55.1 |  332.6 |
+| 8    | Washington    | 2014  |       404.3 |             78.5 |  325.8 |
+| 9    | Stanford      | 2014  |       465.4 |            148.2 |  317.2 |
+| 10   | Washington    | 2011  |       429.9 |            118.5 |  311.4 |
+| ...  | ...           | ...   |         ... |              ... |    ... |
+| 1633 | Tennessee     | 2015  |        79.9 |            262.3 | -182.4 |
+| 1634 | Auburn        | 2010  |          30 |            222.7 | -192.7 |
+| 1635 | Ole Miss      | 2016  |       126.5 |            322.5 |   -196 |
+| 1636 | Texas         | 2012  |       121.3 |            318.7 | -197.4 |
+| 1637 | Florida       | 2010  |       394.4 |            593.5 | -199.1 |
+| 1638 | Florida State | 2017  |         112 |            352.8 | -240.8 |
+| 1639 | Texas         | 2011  |        28.7 |            271.7 |   -243 |
+| 1640 | USC           | 2013  |        61.3 |            305.5 | -244.2 |
+| 1641 | USC           | 2010  |        87.8 |            359.5 | -271.7 |
+| 1642 | Texas         | 2010  |        31.5 |              434 | -402.5 |
+
+On the other side of this table we have high ranked recruiting classes that failed to produce much actual Draft Value. These classes are loaded with 5-Stars who went undrafted. In general, I'm happy with how DVOE has ended up with highly-ranked classes dispersed throughout the entirety of this table.
+
+## Teams
+At a more coarse level, we can use DVOE to look at which college programs have done the best job at getting their recruiting talent drafted. Transfers are handled by which school they were drafted from (ex. Joe Burrow's DVOE goes to LSU and not OSU). 
+
+Perhaps not surprisingly we see the Big Three at the top. OSU, Alabama, and Clemson have all done an excellent job getting their players drafted over the last 7 years. I'm also happy to see schools like Washington, Iowa, and Louisville on here. While not recruiting powerhouses, these programs have been putting guys into the league at a higher than expected clip.
+
+|     | School        | Draft Value | Exp. Draft Value |    DVOE |
+|-----|---------------|------------:|-----------------:|--------:|
+| 1   | Ohio State    |      4015.4 |           2205.1 |  1810.3 |
+| 2   | Alabama       |      4635.7 |           3161.5 |  1474.2 |
+| 3   | Clemson       |      2739.7 |           1361.3 |  1378.4 |
+| 4   | Washington    |      1809.8 |            900.7 |   909.1 |
+| 5   | Iowa          |      1205.7 |            470.1 |   735.6 |
+| 6   | LSU           |      2758.7 |           2040.9 |   717.8 |
+| 7   | Louisville    |      1160.1 |            532.9 |   627.2 |
+| 8   | UCF           |       707.7 |            287.3 |   420.4 |
+| 9   | Texas A&M     |      1648.9 |           1279.9 |   369.0 |
+| 10  | NC State      |       756.3 |            451.1 |   305.2 |
+| ... | ...           | ...         | ...              | ...     |
+| 285 | Rutgers       | 145.7       | 437.1            | -291.4  |
+| 286 | Arizona       | 75.5        | 413.5            | -338.0  |
+| 287 | Ole Miss      | 819.9       | 1185.8           | -365.9  |
+| 288 | Virginia      | 167.1       | 568.0            | -400.9  |
+| 289 | Florida State | 1956.8      | 2376.9           | -420.1  |
+| 290 | Auburn        | 1087.9      | 1602.6           | -514.7  |
+| 291 | Nebraska      | 194.2       | 718.6            | -524.4  |
+| 292 | USC           | 1655.4      | 2312.2           | -656.8  |
+| 293 | Tennessee     | 594.8       | 1290.3           | -695.5  |
+| 294 | Texas         | 524.0       | 1816.0           | -1292.0 |
+
+On the other side of this table, we see a lot of old-guard Blue Bloods. While these programs might have recruited well relative to most P5 schools, they've certainly struggled to get guys into the league at the level expected by their recruiting. And generally these are schools which have underperformed in terms of onfield success. Also, Rutgers.
+
+# Which Coachese Have an eye for NFL Talent?
+
 ## Year to Year Accuracy of Recruit Ratings
 
 One thing DVOE can help inform us about is the temporal improvement in ranking players. Since 2010, there has been a gradual improvement in the DVOE of playeres ranked either as 4 or 5 Stars. We can see that a Blue Chip in the 2017 recruiting class was more often drafted higher than expected. While a Blue Chip in 2010 was drafted lower than expected. This does not to seem to be an effect of merge quality between the draft and recruit datasets, for most years we are missing approximately the same number of drafted recruits. 
@@ -75,7 +137,37 @@ One thing DVOE can help inform us about is the temporal improvement in ranking p
 
 ## Spatial Trends
 
-We can also look at the hometowns of Blue Chips to see if recruits from some states return higher expected Draft Value compared to those from other states. To avoid small sample size issues with some states (namely Taven Bryan and Wyoming), we'll look at the cumulative DVOE produced by Blue Chips from each state from recruiting classes 2010-2017. We can see that in aggregate, Blue Chips from Alabama, Louisiana, Ohio, and South Carolina tend to get drafted higher than expected based on their high school ranking. While Blue Chips from California, Texas, and Georgia have not produced their expected Draft Value. Florida, where an immense amount of Blue Chip talent comes from, generally produces Draft Value comparable to that which we expect from High School rankings.
+We can also look at the hometowns of Blue Chips to see if recruits from some states return higher expected Draft Value compared to those from other states. To avoid small sample size issues with some states (see Taven Bryan, the Jaguars, and Wyoming), we'll look at the cumulative DVOE produced by Blue Chips from each state from recruiting classes 2010-2017. We can see that in aggregate, Blue Chips from Alabama, Louisiana, Ohio, and South Carolina tend to get drafted higher than expected based on their high school ranking. While Blue Chips from California, Texas, and Georgia have not produced their expected Draft Value. Florida, where an immense amount of Blue Chip talent comes from, generally produces Draft Value comparable to that which we expect from High School rankings.
 
 ![states](https://user-images.githubusercontent.com/75027599/117351789-1f587280-ae7c-11eb-914b-dd9f08403261.png)
 
+## Positions 
+
+Recruits listed at some positions tend to produce Higher Draft value than expected by their recruit ranking. Recruits listed as WDE, CB, OT, DUAL (QB), and ATH tend to do the best job at exceeding their Expected Draft Value. Conversely, OG/RB/LB/DT/WR tend to be the positions that are most likely to fall short of their expected draft position. Of these lowest-DVOE positions OG/RB/LB/WR tend to be the most logical to me. These positions tend to be undervalued in the first round of the NFL Draft [relative to NFL Rosters and the number of Blue Chips ranked by the composite](https://twitter.com/drmartylawrenc1/status/1385626436128710656/photo/1). 
+
+DT surprises me though. Generally, DL are highly valued by the NFL Draft. Maybe this just reflects that WDE/SDE are more highly valued in the NFL? Also, keep in mind the negative bias inherent in our DVOE data. The relative-DVOE-order is what is important in the below table, not the exact value of DVOE. 
+
+
+| Position | Draft Value | Exp. Draft Value | DVOE  |
+|----------|-------------|------------------|-------|
+| WDE      | 4691        | 3723             | 968   |
+| CB       | 6444        | 5675             | 769   |
+| OT       | 6838        | 6122             | 715   |
+| DUAL     | 2250        | 1623             | 627   |
+| ATH      | 4743        | 4434             | 309   |
+| P        | 70          | 75               | -6    |
+| LS       | 27          | 34               | -8    |
+| OC       | 712         | 744              | -32   |
+| SDE      | 3700        | 3735             | -35   |
+| TE       | 2453        | 2538             | -86   |
+| K        | 138         | 249              | -110  |
+| FB       | 64          | 177              | -113  |
+| PRO      | 2606        | 2723             | -117  |
+| APB      | 1225        | 1529             | -304  |
+| S        | 4428        | 4827             | -399  |
+| WR       | 7720        | 8625             | -905  |
+| DT       | 4156        | 5153             | -997  |
+| OLB      | 3568        | 4840             | -1271 |
+| ILB      | 1366        | 2652             | -1286 |
+| RB       | 3266        | 4630             | -1364 |
+| OG       | 1764        | 3306             | -1542 |
