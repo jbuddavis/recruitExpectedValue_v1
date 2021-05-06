@@ -2,7 +2,7 @@
 
 Here I assign Draft Value & Draft Monetary Value to high-school football recruits based on their composite 247 Ranking. Draft Value and Draft Monetary value are used because it can quantify the value of undrafted players (i.e., 0). Whereas if only "draft pick" is used, it is difficult to quantify undrafted players. 
 
-## Data
+# Data
 
 The recruit dataset comprises the classes from 2010-2017 and was derived from the https://collegefootballdata.com/ API. The Draft dataset comprises years 2010-2021 and was also downloaded through the https://collegefootballdata.com/ API. Recruiting and Draft datasets were merged using the "athleteId" and "collegeAthleteId" fields and cleaned manually as best as possible.
 
@@ -18,17 +18,25 @@ The rolling average dataset yieled a clear relationship between recruit rank and
 
 ![Figure_1](https://user-images.githubusercontent.com/75027599/117321890-83b70a00-ae5b-11eb-9574-b77e3c87bc6f.png)
 
-## Draft Value Over Expected
+Overall these figures help quantify the magnitude difference between high-ranked and low-ranked HS recruits in terms of likely Draft Value and Draft Contracts. **The #1 ranked High School recruit is expected to have a Draft Value of around 94.3 (~pick #31) and land a 4-Year Draft Contract of $13,000,000.** Comparatively the #300 recruit is expected to have a Draft Value of 5.7 (UNDRAFTED) and a contract of just $740,000, two-orders of magnitude lower than the #1 recruit.
+
+## Thoughts on Draft Value Over Expected
 
 The difference between a recruits *Actual Draft Value* (DV) and *Expected Draft Value* (EDV), can be expressed as *Draft Value Over Expected* (DVOE). Where low-ranked recruits that were drafted early have high DVOE. Conversely, high-ranked recruits that went undrafted have low DVOE. 
 
-In general, the "Expected" values are conservative estimates. In a given actual draft there is $1.6B in monetary contracts and ~10,000 in Draft Value to disperse among the 260 recruits selected. Integrating our "Expected" value for each recruiting class yields only $1.2B in monetary value, and ~8,500 in Draft Value. Hence for each draft class, **there will be a bias towards positive DVOE.** 
+In general, the "Expected" values are conservative estimates. In a given actual draft there is $1.6B in monetary contracts and ~10,000 in Draft Value to disperse among the  selected players. Integrating our "Expected" value for each recruiting class yields only $1.2B in monetary value, and ~8,500 in Draft Value. This would tend to create a bias towards positive DVOE. 
+
+However, this bias is overcome by incomplete merging of the drafted dataset and the recruit dataset. To put it simply, not every recruit that was drafted, is appropriately credited with Draft Value. Cumulatively, only ~63,200 in Draft Value is assigned out of an actual ~80,000. Our Expected Draft Value is ~67,500. As such, we have a bias towards negative DVOE throughout the dataset.
 
 It's important to keep in mind that both Draft Value and Draft Monetary Value follow steeply dipping exponential relationships. Most of the value is concentrated in the earliest picks. As such, there will be strong biases towards certain positions, like QB, which are prioritized in the early rounds of the draft. DVOE does not correct for these effects whatsoever.
 
-# Top Recruits in DVOE
+# Observations
 
-It's not surprising that the top recruits in DVOE are predominately QBs who were drafted very early! DVOE seems to strike a nice balance between (A) rewarding early draft picks without just listing all the #1 overall picks and (B) rewarding low-ranked players like Baker, while still recognizing the actual draft value of highly-ranked recruits Saquon.
+## Recruits
+
+### Top Recruits in DVOE
+
+It's not surprising that the top recruits in DVOE are predominately QBs who were drafted very early. DVOE seems to strike a nice balance between (A) rewarding early draft picks without just listing all the #1 overall picks and (B) rewarding low-ranked players like Baker, while still recognizing the actual draft value of highly-ranked recruits Saquon.
 
 |   | Name             | POS  | Rec Stars | Recruit Rank | Draft School | NFL Team     | Draft Year | Draft Pick |  DVOE |
 |---|------------------|------|----------:|-------------:|--------------|--------------|-----------:|-----------:|------:|
@@ -41,8 +49,7 @@ It's not surprising that the top recruits in DVOE are predominately QBs who were
 | 7 | Saquon Barkley   | RB   |         4 |          119 | Penn State   | New York     |       2018 |          2 | 200.4 |
 | 8 | Quinnen Williams | DT   |         4 |          153 | Alabama      | New York     |       2019 |          3 | 197.8 |
 
-
-# Bottom Recruits in DVOE
+### Bottom Recruits in DVOE
 
 The bottom recruits in DVOE are dominated by highly-ranked linemen who either went undrafted (Trenton Thompson), or went late in the draft where actual Draft Value is low (Ronald Powerll). These lowest DVOE players highlight the high Expected Draft Value of highly-ranked recruits. The fact that they received litte to no actual draft value is the exception and not the norm
 
