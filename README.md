@@ -179,7 +179,7 @@ At the bottom we see some really big names. While Jimbo's recruits have generate
 
 ### Which Coaches Get Upperclassmen Drafted? 
 
-Now DVOE is assigned to coaches based on who was the head coach at the time of their draft (Example: Joe Burrow's DVOE would be credited to Ed Orgeron). This can help us infer which coachs get their players dveloped. There is some slight shuffling at the top, as some of Urban's recruiting success is now credited to Day. In general, most of the names at the top are fairly intuitive. 
+Now DVOE is assigned to coaches based on who was the head coach at the time of their draft (Example: Joe Burrow's DVOE would be credited to Ed Orgeron). This can help us infer which coachs get their players developed. There is some slight shuffling at the top, as some of Urban's recruiting success is now credited to Day. In general, most of the names at the top are fairly intuitive. 
 
 |     | Coach             | Draft Valu | Exp. Draft Value |   DVOE |
 |-----|-------------------|-----------:|-----------------:|-------:|
