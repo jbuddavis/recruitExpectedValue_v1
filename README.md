@@ -22,7 +22,9 @@ Overall these figures help quantify the magnitude difference between high-ranked
 
 ## Draft Value Over Expected
 
-The difference between a recruits *Actual Draft Value* (DV) and *Expected Draft Value* (EDV), can be expressed as *Draft Value Over Expected* (DVOE). Where low-ranked recruits that were drafted early have high DVOE. Conversely, high-ranked recruits that went undrafted have low DVOE. 
+The difference between a recruits *Actual Draft Value* (DV) and *Expected Draft Value* (EDV), can be expressed as *Draft Value Over Expected* (DVOE). 
+
+Low-ranked recruits that were drafted early have high, positive values of DVOE. Conversely, high-ranked recruits that went undrafted have low and/or negative values of DVOE. 
 
 It's  important to keep in mind that both Draft Value and Draft Monetary Value follow steeply dipping exponential relationships. Most of the value is concentrated in the earliest picks. As such, there will be strong biases towards certain positions, like QB, which are prioritized in the early rounds of the draft. DVOE does not correct for these effects whatsoever.
 
