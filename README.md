@@ -217,6 +217,7 @@ One thing DVOE can help inform us about is the temporal improvement in ranking p
 
 ![BCs](https://user-images.githubusercontent.com/75027599/117348899-ca672d00-ae78-11eb-9991-309ab1775efb.png)
 
+NOTE: V2 will be using the variance of DVOE to examine the accuracy of recruiting ratings
 
 ## Spatial Trends
 
