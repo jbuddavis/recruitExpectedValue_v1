@@ -68,7 +68,7 @@ The bottom recruits in DVOE are dominated by highly-ranked linemen who either we
 | 5 | La'el Collins      | OT  |         5 |            3 | LSU          |             |            |            | -68.5 |
 | 6 | D.J. Humphries     | OT  |         5 |            3 | Florida      |             |            |            | -68.5 |
 | 7 | Greg Little        | OT  |         5 |            3 | Ole Miss     |             |            |            | -68.5 |
-| 8 | Shea Patterson     | PRO |         5 |            4 | Ole Miss     |             |            |            | -64.9 |
+| 8 | Shea Patterson     | PRO |         5 |            4 | Michigan     |             |            |            | -64.9 |
 
 ## Which Recruiting Classes Lived Up to the Hype?
 Based on each recruit's DVOE, we can quantify which recruiting classes have exceeded their expectations when it came time to enter the NFL. At the very top are elite classes from Alabama and Ohio State. But I'm really happy to see some lower ranked classes in here like 2010 TAMU (Matthews & Joeckel), 2014 NCSU (Samuels & Chubb), and 2016 Iowa (Hockerson & Fant) which produced highly rated draft picks from low ranked guys. 
