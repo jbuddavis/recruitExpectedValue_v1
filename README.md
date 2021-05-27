@@ -1,4 +1,4 @@
-# Estimating the Expected Draft Value of High School Recruits
+# Estimating the Expected Draft Value of High School Recruits (v1)
 
 Here I assign Draft Value & Draft Monetary Value to high-school football recruits based on their composite 247 Ranking. Utilizing Draft Value allows for undrafted players to be quantified and an Expected Draft Value to be developed for each high-school recruit ranking. A Draft Value Over Expected value allows us to quantify the players, teams, conferences, states, and years where highly rated recruits either exceeded or fell short of the draft expectations set by their recruit ranking.
 
@@ -33,6 +33,8 @@ It's  important to keep in mind that both Draft Value and Draft Monetary Value f
 In general, the "Expected" values are conservative estimates. In a given actual draft there is $1.6B in monetary contracts and ~10,000 in Draft Value to disperse among the  selected players. Integrating our "Expected" value for each recruiting class yields only $1.2B in monetary value, and ~8,500 in Draft Value. This would tend to create a bias towards positive DVOE. 
 
 However, this bias is overcome by incomplete merging of the drafted dataset and the recruit dataset. To put it simply, not every recruit that was drafted, is appropriately credited with Draft Value. Over 576 draft picks were not correctly merged. As such, only ~63,200 in Draft Value is assigned out of an actual ~80,000. Our cumulative Expected Draft Value is ~67,500. **Due to not properly assigning draft credit to every player who was drafted, we have a bias towards negative DVOE throughout the dataset.** This bias is about -650 DVOE per year. As the draft and recruit datasets are improved, we will continue to update these efforts. As of this time we are limited to the data and time available. 
+
+NOTE: Version 2 is in prep and should overcome this bias signficantly.
 
 # Observations
 
